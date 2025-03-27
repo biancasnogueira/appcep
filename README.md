@@ -1,4 +1,4 @@
-# ![Capa do Projeto]("appcep.webp")
+# ![Capa do Projeto](./.gitassets/appcep.webp)
 
 # 📌 CEP - Mix Plant
 
@@ -27,7 +27,3 @@ Este aplicativo foi desenvolvido para digitalizar e otimizar o controle estatís
 - **Integração com Power BI** para visualização e tomada de decisões
 
 ---
-
-## 📸 Imagens do Aplicativo
-![Imagem do Aplicativo](link-da-imagem.jpg)  
-(Aqui você pode incluir essa imagem e outras telas importantes do sistema.)
