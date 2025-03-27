@@ -2,8 +2,8 @@
 
 # 📌 CEP - Mix Plant
 
-💼 **Empresa**: Unilever (Kibon)  
-🛠 **Tecnologia**: PowerApps, Power Automate, Power BI  
+💼 **Cliente**: Unilever (Kibon)  
+🛠 **Tecnologia**: PowerApps, Power Automate, Power BI, SharePoint  
 📅 **Ano**: 2024
 
 ---
@@ -16,7 +16,8 @@ Este aplicativo foi desenvolvido para digitalizar e otimizar o controle estatís
 ## 🚀 Impacto
 - ✅ **Redução de erros e inconsistências nos registros**
 - ✅ **Maior agilidade na análise e consulta de dados**
-- ✅ **Automação de processos com integração ao Power BI**
+- ✅ **Automação de processos com integração ao Power BI e SharePoint**
+- ✅ **Integração do Power Automate para automação de fluxos de trabalho**
 
 ---
 
@@ -25,5 +26,6 @@ Este aplicativo foi desenvolvido para digitalizar e otimizar o controle estatís
 - **Análise do açúcar e pHmetro** para controle de qualidade
 - **Consulta de dados de processos anteriores**
 - **Integração com Power BI** para visualização e tomada de decisões
+- **Integração com SharePoint e Power Automate** para automação de fluxos e armazenamento de dados
 
 ---
