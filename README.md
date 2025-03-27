@@ -1,4 +1,4 @@
-# ![Capa do Projeto](./.gitassets/appcep.webp)
+# ![Capa do Projeto](./.gitassets/2.webp)
 
 # 📌 CEP - Mix Plant
 
@@ -9,11 +9,13 @@
 ---
 
 ## 🧐 Sobre o Projeto
+
 Este aplicativo foi desenvolvido para digitalizar e otimizar o controle estatístico de processos (CEP) na produção da Unilever. Ele substituiu registros manuais em planilhas de Excel, garantindo mais eficiência, confiabilidade e automação dos dados.
 
 ---
 
 ## 🚀 Impacto
+
 - ✅ **Redução de erros e inconsistências nos registros**
 - ✅ **Maior agilidade na análise e consulta de dados**
 - ✅ **Automação de processos com integração ao Power BI e SharePoint**
@@ -22,6 +24,7 @@ Este aplicativo foi desenvolvido para digitalizar e otimizar o controle estatís
 ---
 
 ## 🖥 Interface e Funcionalidades
+
 - **Cadastro de MIX** para acompanhamento da produção
 - **Análise do açúcar e pHmetro** para controle de qualidade
 - **Consulta de dados de processos anteriores**
